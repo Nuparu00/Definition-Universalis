@@ -25,3 +25,6 @@ Download the DefinitionUniversalis.jar file from the build folder, or download t
 1. Write a name of your province to the Name field
 2. Select a color using the Select Color button, or generate a random free color using the Random Color button.
 3. Click on the Add button.
+
+## Disaclaimer
+I am not responsible for any damae this tool may cause to your mod or computer!
