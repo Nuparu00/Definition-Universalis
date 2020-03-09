@@ -4,7 +4,7 @@ A tool designed to make adding provinces to Europa Universalis IV slightly easie
 <p align="center"><img src="https://i.postimg.cc/JnvgCh8C/image.png"></p>
 
 ## What it does?
-The tool generates and entry in the definitions.csv file, generate a "template history file" and adds an entry to the prov_names_l_english.yml file. Keep in mind that in order to use this tool you have to have these files already in the mod folder. Also, the tool does not automatically incerement the max_provinces limit in the default.map file. It is recommended to backup your mod folder before using this tool as it is quite untested and was made quite quickly.
+The tool generates an entry in the definitions.csv file, generates a "template history file" and adds an entry to the prov_names_l_english.yml file. Keep in mind that to use this tool you have to have these files already in the mod folder. Also, the tool does not automatically increment the max_provinces limit in the default.map file. It is recommended to backup your mod folder before using this tool as it is quite untested and was made quite quickly.
 
 ## How to download
 Download the DefinitionUniversalis.jar file from the build folder, or download the source and build the jar file yourself.
@@ -22,9 +22,9 @@ Download the DefinitionUniversalis.jar file from the build folder, or download t
 - The Provinces page contains a table of all loaded provinces
 
 ### How to add a province
-1. Write a name of your province to the Name field
+1. Write the name of your province to the Name field
 2. Select a color using the Select Color button, or generate a random free color using the Random Color button.
 3. Click on the Add button.
 
-## Disaclaimer
-I am not responsible for any damae this tool may cause to your mod or computer!
+## Disclaimer
+I am not responsible for any damage this tool may cause to your mod or computer!
